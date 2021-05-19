@@ -1,0 +1,5 @@
+print("Vamos calcular os numeros inteiros")
+Nome = input("Digite seu Nome")
+n1 = int(input("Digite o primeiro número inteiro"))
+n2 = int(input("Digite o segundo número inteiro"))
+print( Nome , "o produto dos números inteiros é" , (n1*n2))
